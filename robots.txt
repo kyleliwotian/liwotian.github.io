@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://blog.lwtcumt.cn/sitemap.xml
+Sitemap: https://liwotian.github.io/sitemap.xml

@@ -2,83 +2,83 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Even - A super concise theme for Hugo</title>
-    <link>https://blog.lwtcumt.cn/categories/</link>
+    <link>https://liwotian.github.io/categories/</link>
     <description>Recent content in Categories on Even - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="https://blog.lwtcumt.cn/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://liwotian.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Category-2</title>
-      <link>https://blog.lwtcumt.cn/categories/category-2/</link>
+      <link>https://liwotian.github.io/categories/category-2/</link>
       <pubDate>Wed, 23 Aug 2017 18:03:09 +0800</pubDate>
       
-      <guid>https://blog.lwtcumt.cn/categories/category-2/</guid>
+      <guid>https://liwotian.github.io/categories/category-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Category-3</title>
-      <link>https://blog.lwtcumt.cn/categories/category-3/</link>
+      <link>https://liwotian.github.io/categories/category-3/</link>
       <pubDate>Wed, 23 Aug 2017 18:03:09 +0800</pubDate>
       
-      <guid>https://blog.lwtcumt.cn/categories/category-3/</guid>
+      <guid>https://liwotian.github.io/categories/category-3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>English</title>
-      <link>https://blog.lwtcumt.cn/categories/english/</link>
+      <link>https://liwotian.github.io/categories/english/</link>
       <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
       
-      <guid>https://blog.lwtcumt.cn/categories/english/</guid>
+      <guid>https://liwotian.github.io/categories/english/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shortcodes</title>
-      <link>https://blog.lwtcumt.cn/categories/shortcodes/</link>
+      <link>https://liwotian.github.io/categories/shortcodes/</link>
       <pubDate>Tue, 30 Aug 2016 16:01:23 +0800</pubDate>
       
-      <guid>https://blog.lwtcumt.cn/categories/shortcodes/</guid>
+      <guid>https://liwotian.github.io/categories/shortcodes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Syntax Highlighting</title>
-      <link>https://blog.lwtcumt.cn/categories/syntax-highlighting/</link>
+      <link>https://liwotian.github.io/categories/syntax-highlighting/</link>
       <pubDate>Tue, 30 Aug 2011 16:01:23 +0800</pubDate>
       
-      <guid>https://blog.lwtcumt.cn/categories/syntax-highlighting/</guid>
+      <guid>https://liwotian.github.io/categories/syntax-highlighting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Theme preview</title>
-      <link>https://blog.lwtcumt.cn/categories/theme-preview/</link>
+      <link>https://liwotian.github.io/categories/theme-preview/</link>
       <pubDate>Wed, 23 Aug 2017 18:03:09 +0800</pubDate>
       
-      <guid>https://blog.lwtcumt.cn/categories/theme-preview/</guid>
+      <guid>https://liwotian.github.io/categories/theme-preview/</guid>
       <description></description>
     </item>
     
     <item>
       <title>中文</title>
-      <link>https://blog.lwtcumt.cn/categories/%E4%B8%AD%E6%96%87/</link>
+      <link>https://liwotian.github.io/categories/%E4%B8%AD%E6%96%87/</link>
       <pubDate>Wed, 30 Aug 2017 01:37:56 +0800</pubDate>
       
-      <guid>https://blog.lwtcumt.cn/categories/%E4%B8%AD%E6%96%87/</guid>
+      <guid>https://liwotian.github.io/categories/%E4%B8%AD%E6%96%87/</guid>
       <description></description>
     </item>
     
     <item>
       <title>日本語</title>
-      <link>https://blog.lwtcumt.cn/categories/%E6%97%A5%E6%9C%AC%E8%AA%9E/</link>
+      <link>https://liwotian.github.io/categories/%E6%97%A5%E6%9C%AC%E8%AA%9E/</link>
       <pubDate>Wed, 30 Aug 2017 01:53:34 +0800</pubDate>
       
-      <guid>https://blog.lwtcumt.cn/categories/%E6%97%A5%E6%9C%AC%E8%AA%9E/</guid>
+      <guid>https://liwotian.github.io/categories/%E6%97%A5%E6%9C%AC%E8%AA%9E/</guid>
       <description></description>
     </item>
     
